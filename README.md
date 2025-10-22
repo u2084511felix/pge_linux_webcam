@@ -14,4 +14,6 @@ g++ -o pgewebcam pge_linux_webcam.cpp -lX11 -lGL -lpthread -lpng -lstdc++fs -std
 ```
 
 Run binary:
+```bash
 ./pgewebcam
+```
